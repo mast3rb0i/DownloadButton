@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mast3rb0i/mhm/main/master%20hub%20script", true))()
